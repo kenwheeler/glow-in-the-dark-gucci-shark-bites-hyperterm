@@ -1,8 +1,10 @@
 {
   "name": "sharkbites",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kenwheeler/glow-in-the-dark-gucci-shark-bites-hyperterm.git",
