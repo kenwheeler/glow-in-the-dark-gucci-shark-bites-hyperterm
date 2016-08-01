@@ -1,0 +1,13 @@
+{
+  "name": "glow-in-the-dark-gucci-shark-bites-hyperterm",
+  "version": "1.0.0",
+  "description": "",
+  "files": ["index.js"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenwheeler/glow-in-the-dark-gucci-shark-bites-hyperterm.git",
+    "author": "Ken Wheeler"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/kenwheeler/glow-in-the-dark-gucci-shark-bites-hyperterm#readme"
+}
